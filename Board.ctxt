@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Board
+comment0.text=\n\ Write\ a\ description\ of\ class\ Board\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=max_rows\ max_cols
+comment1.target=Board(int,\ int)
+comment10.params=
+comment10.target=boolean\ spaceAvailable()
+comment2.params=
+comment2.target=int\ getMaxRows()
+comment3.params=
+comment3.target=int\ getMaxCols()
+comment4.params=
+comment4.target=void\ printBoard()
+comment5.params=msg
+comment5.target=void\ printBoard(java.lang.String)
+comment6.params=row\ col
+comment6.target=boolean\ isSpaceFree(int,\ int)
+comment7.params=player\ row\ col
+comment7.target=boolean\ play(char,\ int,\ int)
+comment8.params=player
+comment8.target=boolean\ autoPlay(char)
+comment9.params=
+comment9.target=boolean\ haveAWinner()
+numComments=11

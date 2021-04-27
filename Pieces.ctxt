@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Pieces
+comment0.text=\n\ Write\ a\ description\ of\ class\ Pieces\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=name\ row\ col
+comment1.target=Pieces(char,\ int,\ int)
+comment2.params=
+comment2.target=int\ getRow()
+comment3.params=
+comment3.target=int\ getCol()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
